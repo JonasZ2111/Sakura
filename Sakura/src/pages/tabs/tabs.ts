@@ -1,8 +1,10 @@
 import { Component } from '@angular/core';
 
-import { AboutPage } from '../Kontakt/about';
-import { ContactPage } from '../Speisekarte/contact';
+import { KontaktPage } from '../Kontakt/Kontakt';
+import { SpeisekartePage } from '../Speisekarte/Speisekarte';
 import { HomePage } from '../Home/home';
+import { AktionPage } from '../Aktion/Aktion';
+import { GutscheinPage } from '../Gutschein/Gutschein';
 
 
 @Component({
@@ -11,8 +13,10 @@ import { HomePage } from '../Home/home';
 export class TabsPage {
 
   tab1Root = HomePage;
-  tab2Root = ContactPage;
-  tab3Root = ContactPage;
+  tab2Root = SpeisekartePage;
+  tab3Root = KontaktPage;
+  tab4Root = AktionPage;
+  tab5Root = GutscheinPage;
 
 
   constructor() {
