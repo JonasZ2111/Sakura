@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="539701c6-a067-470e-9cd7-61ab93c5944e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Sakura/src/pages/Aktion/Aktion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sakura/src/pages/Aktion/Aktion.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sakura/src/pages/Aktion/Aktion.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sakura/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sakura/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/Kontakt/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/Kontakt/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/Kontakt/about.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/contact.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.ts" afterDir="false" />
+    <list default="true" id="80b98ee0-7376-40fe-9e8e-5cda54c51451" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Sakura.iml" afterPath="$PROJECT_DIR$/.idea/Sakura.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.html" afterPath="$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.html" />
+      <change beforePath="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.html" afterPath="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,109 +21,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tabs.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.ts">
+      <file leaf-file-name="Speisekarte.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="325">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="16" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tabs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Sakura/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Home/home.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gutschein.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Gutschein.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Kontakt.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gutschein.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gutschein.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Kontakt.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="13" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="275">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="SCSS File" />
-        <option value="TypeScript File" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -141,22 +49,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Sakura/src/pages/home/home.html" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/contact.html" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Kontakt/about.html" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.html" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.ts" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.ts" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Aktion/Aktion.html" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Aktion/Aktion.ts" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.ts" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Aktion/Aktion.scss" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.scss" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.scss" />
+        <option value="$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.html" />
         <option value="$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.html" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.html" />
-        <option value="$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.ts" />
-        <option value="$PROJECT_DIR$/Sakura/src/app/app.module.ts" />
       </list>
     </option>
   </component>
@@ -169,22 +63,27 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/Sakura/node_modules" />
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/Sakura/package.json" />
-    </packageJsonPaths>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="822" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1188" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,13 +101,6 @@
               <item name="Sakura" type="462c0819:PsiDirectoryNode" />
               <item name="Sakura" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sakura" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sakura" type="b2602c69:ProjectViewProjectNode" />
@@ -233,50 +125,17 @@
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="Gutschein" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Sakura" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sakura" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Kontakt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sakura" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Speisekarte" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Sakura" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="tabs" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="SCSS" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/Sakura/node_modules/typescript/lib" />
+    <property name="excluded.www.directory" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -290,83 +149,47 @@
       </list>
     </option>
   </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="539701c6-a067-470e-9cd7-61ab93c5944e" name="Default" comment="" />
-      <created>1527539321589</created>
+      <changelist id="80b98ee0-7376-40fe-9e8e-5cda54c51451" name="Default" comment="" />
+      <created>1528141001592</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1527539321589</updated>
-      <workItem from="1527539323033" duration="1138000" />
-      <workItem from="1527578091545" duration="4553000" />
+      <updated>1528141001592</updated>
+      <workItem from="1528141006766" duration="1865000" />
     </task>
-    <task id="LOCAL-00001" summary="Initial Commit">
-      <created>1527540185986</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1527540185986</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Initial Commit">
-      <created>1527540278182</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1527540278182</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Initial Commit">
-      <created>1527540404152</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1527540404152</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Erste Erstellung Tabs">
-      <created>1527580986189</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1527580986189</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5691000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="1865000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32863188" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32863188" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32863188" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20689656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32923833" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,175 +198,24 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Commit" />
-    <MESSAGE value="Erste Erstellung Tabs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Erste Erstellung Tabs" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Sakura/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/node_modules/component-emitter/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1220" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/service-worker.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/app/app.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Speisekarte/Speisekarte.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Home/home.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Aktion/Aktion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Aktion/Aktion.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Home/home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Aktion/Aktion.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Kontakt/Kontakt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="325">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="16" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Sakura/src/pages/Gutschein/Gutschein.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/pages/tabs/tabs.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sakura/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="275">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
