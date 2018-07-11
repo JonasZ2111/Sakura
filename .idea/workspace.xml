@@ -104,7 +104,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,6 +180,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,7 +232,8 @@
       <workItem from="1531134674406" duration="171000" />
       <workItem from="1531204841656" duration="9974000" />
       <workItem from="1531311277318" duration="2723000" />
-      <workItem from="1531314041346" duration="1639000" />
+      <workItem from="1531314041346" duration="1914000" />
+      <workItem from="1531315992352" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="Changes Gutschein und Speiskarte">
       <created>1529906744930</created>
@@ -318,11 +319,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531313902223</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Änderungen">
+      <created>1531315904293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1531315904293</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32759000" />
+    <option name="totallyTimeSpent" value="33085000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
